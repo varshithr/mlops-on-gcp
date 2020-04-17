@@ -24,7 +24,7 @@ variable "cluster_node_count" {
 
 variable "cluster_node_type" {
     description = "The cluster's node type"
-    default     = "n1-standard-4"
+    default     = "n1-standard-1"
 }
 
 

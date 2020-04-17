@@ -15,5 +15,5 @@ variable "disk_size" {
 
 variable "tier" {
   description = "The machine type to use"
-  default     = "db-n1-standard-8"
+  default     = "db-n1-standard-1"
 }
